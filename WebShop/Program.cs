@@ -6,6 +6,8 @@ namespace WebShop
     {
         static void Main(string[] args)
         {
+            // Kommentar
+
             List<Product> inventory = new List<Product>()
             {
                 new Book {Name = "PotatoTech", Brand = "Potatoes United", Price = 99.99, Author = "Robin Kamo"},
